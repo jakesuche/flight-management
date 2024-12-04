@@ -36,7 +36,7 @@ This is a Flight Management System built with Next.js, React, and TypeScript. It
 
 ## Project Structure
 
-\`\`\`
+
 flight-management/
 ├── app/
 │   ├── auth/
@@ -71,7 +71,7 @@ flight-management/
 ├── package.json
 ├── README.md
 └── tsconfig.json
-\`\`\`
+
 
 ## Setup Instructions
 
